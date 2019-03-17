@@ -10,7 +10,7 @@ public class TaxiDriver implements Driver {
 
 	}
 	
-	public void Taxidriver() {
+	public TaxiDriver() {
 		
 	}
 
